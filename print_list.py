@@ -1,5 +1,5 @@
 def print_list(l1):
-    for i in l1:
-        print(i)
+    for element in l1:
+        print(element)
 
 print_list(l1)
